@@ -1,0 +1,20 @@
+﻿빌드 시작: 2018-12-13 오후 1:57:20
+     1>2 노드의 "C:\Users\shin lab\Desktop\ARTHOUSE\ARTHOUSE.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\ARTHOUSE.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt ARTHOUSEView.cpp
+         ARTHOUSEView.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shin lab\Desktop\x64\Debug\ARTHOUSE.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /PDB:"C:\Users\shin lab\Desktop\x64\Debug\ARTHOUSE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shin lab\Desktop\x64\Debug\ARTHOUSE.lib" /MACHINE:X64 x64\Debug\ARTHOUSE.res
+         x64\Debug\ARTHOUSE.obj
+         x64\Debug\ARTHOUSEDoc.obj
+         x64\Debug\ARTHOUSEView.obj
+         x64\Debug\MainFrm.obj
+         x64\Debug\Markup.obj
+         x64\Debug\PictureEx.obj
+         x64\Debug\stdafx.obj
+         ARTHOUSE.vcxproj -> C:\Users\shin lab\Desktop\x64\Debug\ARTHOUSE.exe
+     1>"C:\Users\shin lab\Desktop\ARTHOUSE\ARTHOUSE.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.61

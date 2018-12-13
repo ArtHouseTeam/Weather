@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			
+				<item>
+				    <dataTime>2018-12-13 17:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>35</seoul>
+					<busan>34</busan>
+					<daegu>37</daegu>
+					<incheon>36</incheon>
+					<gwangju>54</gwangju>
+					<daejeon>49</daejeon>
+					<ulsan>26</ulsan>
+					<gyeonggi>51</gyeonggi>
+					<gangwon>50</gangwon>
+					<chungbuk>56</chungbuk>
+					<chungnam>48</chungnam>
+					<jeonbuk>50</jeonbuk>
+					<jeonnam>40</jeonnam>
+					<gyeongbuk>45</gyeongbuk>
+					<gyeongnam>36</gyeongnam>
+					<jeju>41</jeju>
+					<sejong>47</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 16:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>49</seoul>
+					<busan>34</busan>
+					<daegu>37</daegu>
+					<incheon>47</incheon>
+					<gwangju>48</gwangju>
+					<daejeon>42</daejeon>
+					<ulsan>24</ulsan>
+					<gyeonggi>59</gyeonggi>
+					<gangwon>50</gangwon>
+					<chungbuk>47</chungbuk>
+					<chungnam>45</chungnam>
+					<jeonbuk>50</jeonbuk>
+					<jeonnam>33</jeonnam>
+					<gyeongbuk>39</gyeongbuk>
+					<gyeongnam>34</gyeongnam>
+					<jeju>57</jeju>
+					<sejong>42</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 15:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>54</seoul>
+					<busan>35</busan>
+					<daegu>34</daegu>
+					<incheon>52</incheon>
+					<gwangju>40</gwangju>
+					<daejeon>44</daejeon>
+					<ulsan>23</ulsan>
+					<gyeonggi>62</gyeonggi>
+					<gangwon>42</gangwon>
+					<chungbuk>45</chungbuk>
+					<chungnam>39</chungnam>
+					<jeonbuk>44</jeonbuk>
+					<jeonnam>31</jeonnam>
+					<gyeongbuk>39</gyeongbuk>
+					<gyeongnam>34</gyeongnam>
+					<jeju>33</jeju>
+					<sejong>44</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 14:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>54</seoul>
+					<busan>35</busan>
+					<daegu>39</daegu>
+					<incheon>54</incheon>
+					<gwangju>34</gwangju>
+					<daejeon>38</daejeon>
+					<ulsan>24</ulsan>
+					<gyeonggi>63</gyeonggi>
+					<gangwon>42</gangwon>
+					<chungbuk>52</chungbuk>
+					<chungnam>37</chungnam>
+					<jeonbuk>38</jeonbuk>
+					<jeonnam>31</jeonnam>
+					<gyeongbuk>51</gyeongbuk>
+					<gyeongnam>33</gyeongnam>
+					<jeju>34</jeju>
+					<sejong>50</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 13:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>55</seoul>
+					<busan>34</busan>
+					<daegu>58</daegu>
+					<incheon>58</incheon>
+					<gwangju>41</gwangju>
+					<daejeon>44</daejeon>
+					<ulsan>26</ulsan>
+					<gyeonggi>60</gyeonggi>
+					<gangwon>39</gangwon>
+					<chungbuk>59</chungbuk>
+					<chungnam>37</chungnam>
+					<jeonbuk>40</jeonbuk>
+					<jeonnam>31</jeonnam>
+					<gyeongbuk>56</gyeongbuk>
+					<gyeongnam>34</gyeongnam>
+					<jeju>29</jeju>
+					<sejong>46</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 12:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>53</seoul>
+					<busan>34</busan>
+					<daegu>75</daegu>
+					<incheon>56</incheon>
+					<gwangju>49</gwangju>
+					<daejeon>52</daejeon>
+					<ulsan>33</ulsan>
+					<gyeonggi>58</gyeonggi>
+					<gangwon>44</gangwon>
+					<chungbuk>63</chungbuk>
+					<chungnam>36</chungnam>
+					<jeonbuk>42</jeonbuk>
+					<jeonnam>33</jeonnam>
+					<gyeongbuk>65</gyeongbuk>
+					<gyeongnam>37</gyeongnam>
+					<jeju>25</jeju>
+					<sejong>48</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 11:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>51</seoul>
+					<busan>40</busan>
+					<daegu>67</daegu>
+					<incheon>53</incheon>
+					<gwangju>44</gwangju>
+					<daejeon>52</daejeon>
+					<ulsan>34</ulsan>
+					<gyeonggi>56</gyeonggi>
+					<gangwon>41</gangwon>
+					<chungbuk>65</chungbuk>
+					<chungnam>36</chungnam>
+					<jeonbuk>43</jeonbuk>
+					<jeonnam>34</jeonnam>
+					<gyeongbuk>61</gyeongbuk>
+					<gyeongnam>40</gyeongnam>
+					<jeju>23</jeju>
+					<sejong>46</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 10:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>48</seoul>
+					<busan>38</busan>
+					<daegu>68</daegu>
+					<incheon>51</incheon>
+					<gwangju>41</gwangju>
+					<daejeon>47</daejeon>
+					<ulsan>34</ulsan>
+					<gyeonggi>57</gyeonggi>
+					<gangwon>44</gangwon>
+					<chungbuk>58</chungbuk>
+					<chungnam>34</chungnam>
+					<jeonbuk>40</jeonbuk>
+					<jeonnam>33</jeonnam>
+					<gyeongbuk>58</gyeongbuk>
+					<gyeongnam>48</gyeongnam>
+					<jeju>25</jeju>
+					<sejong>48</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 09:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>49</seoul>
+					<busan>35</busan>
+					<daegu>59</daegu>
+					<incheon>53</incheon>
+					<gwangju>35</gwangju>
+					<daejeon>42</daejeon>
+					<ulsan>28</ulsan>
+					<gyeonggi>56</gyeonggi>
+					<gangwon>41</gangwon>
+					<chungbuk>52</chungbuk>
+					<chungnam>33</chungnam>
+					<jeonbuk>35</jeonbuk>
+					<jeonnam>30</jeonnam>
+					<gyeongbuk>47</gyeongbuk>
+					<gyeongnam>49</gyeongnam>
+					<jeju>20</jeju>
+					<sejong>48</sejong>
+				</item>
+			
+				<item>
+				    <dataTime>2018-12-13 08:00</dataTime>
+				    
+				    
+				    
+				    
+				    <itemCode>PM10</itemCode>
+				    
+				    <dataGubun>시간평균</dataGubun>
+				    
+				    <seoul>42</seoul>
+					<busan>31</busan>
+					<daegu>51</daegu>
+					<incheon>53</incheon>
+					<gwangju>29</gwangju>
+					<daejeon>38</daejeon>
+					<ulsan>23</ulsan>
+					<gyeonggi>48</gyeonggi>
+					<gangwon>38</gangwon>
+					<chungbuk>47</chungbuk>
+					<chungnam>33</chungnam>
+					<jeonbuk>31</jeonbuk>
+					<jeonnam>24</jeonnam>
+					<gyeongbuk>42</gyeongbuk>
+					<gyeongnam>41</gyeongnam>
+					<jeju>18</jeju>
+					<sejong>43</sejong>
+				</item>
+			
+		</items>
+		<numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>25</totalCount>
+	</body>
+</response>

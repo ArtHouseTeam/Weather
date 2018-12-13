@@ -1,0 +1,24 @@
+﻿  ARTHOUSEView.cpp
+ARTHOUSEView.cpp(1621): error C2660: 'CARTHOUSEView::region_disp': 함수는 4개의 매개 변수를 사용하지 않습니다.
+ARTHOUSEView.cpp(1627): error C2511: 'void CARTHOUSEView::region_disp(int,int,int,CString)': 오버로드된 멤버 함수가 'CARTHOUSEView'에 없습니다.
+  c:\users\heepy\documents\visual studio 2015\projects\arthouse\arthouse\ARTHOUSEView.h(15): note: 'CARTHOUSEView' 선언을 참조하십시오.
+ARTHOUSEView.cpp(1628): error C2352: 'CWnd::Invalidate': 비정적 멤버 함수를 잘못 호출했습니다.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afxwin2.inl(113): note: 'CWnd::Invalidate' 선언을 참조하십시오.
+ARTHOUSEView.cpp(1629): error C2671: 'CARTHOUSEView::region_disp': 정적 멤버 함수에 'this' 포인터가 없습니다.
+ARTHOUSEView.cpp(1629): error C2512: 'CPaintDC::CPaintDC': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+ARTHOUSEView.cpp(1659): error C2352: 'CWnd::GetClientRect': 비정적 멤버 함수를 잘못 호출했습니다.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afxwin2.inl(85): note: 'CWnd::GetClientRect' 선언을 참조하십시오.
+ARTHOUSEView.cpp(1701): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1702): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1705): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1706): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1709): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1710): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1713): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1714): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1720): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1721): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1724): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1725): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1728): error C2228: '.Load' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+ARTHOUSEView.cpp(1729): error C2228: '.Draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
